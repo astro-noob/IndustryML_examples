@@ -1,2 +1,2 @@
 # IndustryML_examples
-Examples of machine learning methods using industry datasets. Will keep expanding with supervised and unsupervised ML methods. Examples are coursework from ISLR.
+Non-astromomy tutorials on various machine learning methods. Examples are coursework from ISLR done in Jupyter.
