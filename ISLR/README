@@ -1,1 +1,3 @@
-
+Introduction to Statistical Learning with applications in R (ISLR) is a free to download textbook covering topics in machine learning and statistical modeling.
+The examples here use Python, Scikit Learn, Seaborn, and clean publicly available datasets to cover the same lessons from the textbook (but in python instead of R).
+The book covers much more than what is shown here but it serves as examples for me to revisit once in a while.
